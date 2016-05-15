@@ -15,7 +15,7 @@ Package.onUse(function(api) {
   api.use('ecmascript');
   api.use("less");
   api.use("jquery");
-  api.use("twbs:bootstrap");
+  // api.use("twbs:bootstrap");
   // api.mainModule('bs-theme-flatlab.js');
 
   api.addAssets([
