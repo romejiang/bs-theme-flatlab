@@ -1,6 +1,6 @@
 Package.describe({
   name: 'romejiang:bs-theme-flatlab',
-  version: '0.0.1',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'Flatlab is new model of admin dashboard, build with Bootstrap 3.0',
   // URL to the Git repository containing the source code for this package.
